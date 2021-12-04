@@ -1,7 +1,10 @@
 # Reddit Client *by Cristian Daniel Herrera*
-### Wireframe:
+
+### Wireframes:
 #### - Desktop
 ![alt text](wireframeDesktop.png)
+#### - Mobile
+![alt text](wireframeMobile.png)
 
 ### Tecnologies Used:
 - **React**
